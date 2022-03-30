@@ -1,0 +1,11 @@
+@import'./bases/bases';
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+
+body, html{
+    background-color: $color_primary;
+    box-sizing: border-box;
+    color: $color_opt;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
